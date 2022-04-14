@@ -1,0 +1,2 @@
+Aplikasi ini menggunakan local host pribadi yang diatur pada file koneksi.php
+Sudah disediakan juga database .sql nya pada Folder Database
